@@ -1,0 +1,21 @@
+@media screen and (max-width: 800px) {
+  h1,p{
+    font-size: 10px;
+  }
+  
+  .guess{
+    width: 50%;
+  }
+  
+  .btn{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .between,.btn{
+    font-size: 10px;
+  }
+}
